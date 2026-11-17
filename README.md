@@ -1,6 +1,10 @@
-# JunoVoice
+# Manydocks: Juno voice
 
-Text-to-speech helper for **Juno**, the voice assistant in [Manydocks](https://denishchai.com/manydocks/).
+Public parts of [Manydocks](https://denishchai.com/manydocks/), a floating dock for Windows: the **Juno voice pack**
+mirror and **JunoVoice**, the text-to-speech helper for Juno, Manydocks' voice assistant. Manydocks itself is
+proprietary; this repository holds only the free and open-source pieces it uses.
+
+## JunoVoice
 
 JunoVoice is a small Windows program that turns text into speech with the
 [Kokoro](https://huggingface.co/hexgrad/Kokoro-82M) voice through [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx).
