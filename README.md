@@ -1,6 +1,6 @@
 # Manydocks: Juno voice
 
-Public parts of [Manydocks](https://denishchai.com/manydocks/), a floating dock for Windows: the **Juno voice pack**
+Public parts of [Manydocks](https://manydocks.app/), a floating dock for Windows: the **Juno voice pack**
 mirror and **JunoVoice**, the text-to-speech helper for Juno, Manydocks' voice assistant. Manydocks itself is
 proprietary; this repository holds only the free and open-source pieces it uses.
 
